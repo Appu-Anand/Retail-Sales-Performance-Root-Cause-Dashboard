@@ -22,11 +22,11 @@ Built for a retail performance review presentation — this dashboard helps iden
 
 | File | Description |
 |------|-------------|
-| [`Retail Sales Performance & Root Cause Dashboard.pbix`](Retail%20Sales%20Performance%20%26%20Root%20Cause%20Dashboard.pbix) | Fully interactive Power BI dashboard |
+| [`Retail Sales Performance & Root Cause Dashboard.pbix`](Retail Sales Performance & Root Cause Dashboard.pbix) | Fully interactive Power BI dashboard |
 | [`retail_sales_clean.csv`](retail_sales_clean.csv) | Cleaned dataset used for analysis |
 | [`EDA_RootCause_Analysis.ipynb`](EDA_RootCause_Analysis.ipynb) | Python notebook for initial exploration |
 | [`dashboard_preview.png`](dashboard_preview.png) | Snapshot of the Power BI dashboard |
-| `README.md` | You're reading it. 📖 |
+
 
 ---
 
