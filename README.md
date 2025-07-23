@@ -1,57 +1,48 @@
-# 🧾 Retail Sales Performance & Root Cause Dashboard
+# 🛒 Retail Sales Performance & Root Cause Dashboard
 
-A professional Power BI dashboard + Python EDA project designed to uncover the root causes behind retail profit dips, discount losses, and delivery inefficiencies.
-
----
-
-## 🔍 Summary of Insights
-
-- 📉 **South region profits dropped significantly after July 2024**
-- 🔥 **Tech products with >21% discount experienced margin erosion**
-- 🚚 **Late deliveries led to ~18% lower average profit per order**
+A professional Power BI case study analyzing retail sales data from Jan 2024 to Jan 2025. It uncovers the root causes behind a profit decline in the South region and visualizes insights using an interactive dashboard.
 
 ---
 
-## 💼 Business Context
+## 📊 Project Overview
 
-Built for a retail performance review presentation — this dashboard helps identify what went wrong, where, and why, across time, region, discount strategy, and delivery efficiency.
+This dashboard was built to:
+
+- Investigate the **profit dip in the South region after July 2024**
+- Analyze the impact of **high discounts on Technology category**
+- Measure how **late deliveries affect profitability**
 
 ---
 
-## 📁 Project Files
+## 📁 Files
 
 | File | Description |
 |------|-------------|
-| [retail_sales_dashboard.pbix](retail_sales_dashboard.pbix) | Fully interactive Power BI dashboard |
-| [`retail_sales_clean.csv`](retail_sales_clean.csv) | Cleaned dataset used for analysis |
-| [`EDA_RootCause_Analysis.ipynb`](EDA_RootCause_Analysis.ipynb) | Python notebook for initial exploration |
-| [`dashboard_preview.png`](Retail Sales Dashboard.png) | Snapshot of the Power BI dashboard |
-
-
----
-
-## 📊 Dashboard Preview
-
-![Retail Dashboard](dashboard_preview.png)
+| [`retail_sales_dashboard.pbix`](retail_sales_dashboard.pbix) | Fully interactive Power BI dashboard |
+| [`retail_sales_clean.csv`](retail_sales_clean.csv) | Cleaned dataset used for the analysis |
+| [`eda_root_cause_analysis.ipynb`](eda_root_cause_analysis.ipynb) | Python notebook for initial EDA |
+| [`dashboard_preview.png`](dashboard_preview.png) | Snapshot of the Power BI dashboard |
 
 ---
 
-## ⚙️ Tools & Technologies
+## 📌 Key Insights
 
-- Power BI (DAX, Data Modeling)
-- Python (pandas, matplotlib)
+- 📉 **South region profit dropped** sharply post-July 2024.
+- 🔥 **Technology discounts above 20%** led to negative profit margins.
+- 🚚 **Late deliveries** correlate with an 18% drop in average profit per order.
+
+---
+
+## 🧠 Tools Used
+
+- Python (pandas, seaborn, matplotlib)
+- Power BI
 - Jupyter Notebook
-- Excel (for binning and delivery flag creation)
 
 ---
 
-## 👨‍💻 Author
+## ✨ Author
 
 **Appu Anand**  
-_Data Analyst | 2 YOE_  
-📧 appu12anand@gmail.com  
-📍 India
-
----
-
-> ⭐ Star the repo if you found it insightful, or fork it to build your own version!
+Data Analyst | Root cause detective | Dashboard designer  
+[LinkedIn](https://www.linkedin.com/in/appu-anand) • [Portfolio](https://appu-anand.github.io) • [Email](mailto:appu12anand@gmail.com)
