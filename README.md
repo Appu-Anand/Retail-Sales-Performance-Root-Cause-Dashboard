@@ -36,7 +36,7 @@ The dashboard was built for a retail business to:
 
 ## 📊 Dashboard Preview
 
-![Retail Dashboard](dashboard_preview.png)
+![Retail Dashboard](Retail Sales Dashboard.png)
 
 ---
 
