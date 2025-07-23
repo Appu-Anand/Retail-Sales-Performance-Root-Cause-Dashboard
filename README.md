@@ -25,7 +25,7 @@ Built for a retail performance review presentation — this dashboard helps iden
 | [retail_sales_dashboard.pbix](retail_sales_dashboard.pbix) | Fully interactive Power BI dashboard |
 | [`retail_sales_clean.csv`](retail_sales_clean.csv) | Cleaned dataset used for analysis |
 | [`EDA_RootCause_Analysis.ipynb`](EDA_RootCause_Analysis.ipynb) | Python notebook for initial exploration |
-| [`dashboard_preview.png`](dashboard_preview.png) | Snapshot of the Power BI dashboard |
+| [`dashboard_preview.png`](Retail Sales Dashboard.png) | Snapshot of the Power BI dashboard |
 
 
 ---
