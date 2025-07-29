@@ -2,7 +2,7 @@
 
 > A Power BI dashboard that does more than just display metrics — it pinpoints *why* things happen. Built to drive decisions, not just visualizations.
 
-![Retail Sales Dashboard](./assets/dashboard-screenshot.png)
+![Retail Sales Dashboard](./main/dashboard_preview.png)
 
 ## 📌 Project Summary
 
