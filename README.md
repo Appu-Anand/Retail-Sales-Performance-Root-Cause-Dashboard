@@ -62,3 +62,35 @@ Discount Bin =
         Sales[Discount] <= 0.10, "0%-10%",
         Sales[Discount] <= 0.20, "11%-20%",
         "21%-30%")
+🔍 Filters for Deep Dive
+Region (Central, East, South, West)
+
+Category (Technology, Furniture, Office Supplies)
+
+Discount Bin (0–10%, 11–20%, 21–30%)
+
+Date Range
+
+📌 Use Case
+This dashboard is ideal for:
+
+Retail managers identifying sales decline patterns.
+
+Category leads adjusting discounting strategies.
+
+Operations teams fixing delivery bottlenecks.
+
+🚀 What’s Next
+Add predictive capabilities (forecasting next quarter’s profit).
+
+Integrate shipping data to analyze vendor-level delays.
+
+Include dynamic benchmarking against market targets.
+
+
+🤝 Let’s Connect
+If you’re a hiring manager, data nerd, or just love a good dashboard — check out my Portfolio Website or connect on LinkedIn.
+
+yaml
+Copy
+Edit
