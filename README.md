@@ -70,7 +70,7 @@ Category (Technology, Furniture, Office Supplies)
 Discount Bin (0–10%, 11–20%, 21–30%)
 
 Date Range
-
+```
 📌 Use Case
 This dashboard is ideal for:
 
@@ -91,6 +91,3 @@ Include dynamic benchmarking against market targets.
 🤝 Let’s Connect
 If you’re a hiring manager, data nerd, or just love a good dashboard — check out my Portfolio Website or connect on LinkedIn.
 
-yaml
-Copy
-Edit
